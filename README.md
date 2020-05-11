@@ -16,3 +16,6 @@ Note: check that manage.py file exists before running the command.
     
 3. Next you can visit the UI at http://localhost:3000/ on your local PC
 
+Sample view of the UI
+-----------------------------
+![UI for TextSummarizer](https://github.com/sanghvip/KeepItShort/blob/master/UI.PNG)
