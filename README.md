@@ -1,5 +1,5 @@
 # KeepItShort
-KeepItShort is focused on summarizing the input text leveraging the emerging the frontend Technology(React.js) and NLP skills using Python. The text summarisation script is programmed with basic algorithms and techniques like term frequency, tokenizing sentences and scoring sentences. More work needs to be done on the backend and frontend. The project is still in the prelimirnary stage and far from POC, but the basic idea will get across through the project.
+KeepItShort is focused on summarizing the input leveraging the emerging the frontend Technology(React.js) and NLP skills using Python. The text summarisation script is programmed with basic algorithms and techniques like term frequency, tokenizing sentences and scoring sentences. More work needs to be done on the backend and frontend. The project is still in the prelimirnary stage and far from POC, but the basic idea will get across through the project.
 
 Technologies: Bootstrap, React.js, NLTK, Python, Django DRF
 
