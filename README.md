@@ -3,6 +3,17 @@ KeepItShort is focused on summarizing the input leveraging the emerging the fron
 
 Technologies: Bootstrap, React.js, NLTK, Python, Django DRF
 
+KeepItShort Summarized in 8 steps
+------------------------
+1. Sentence Tokenize and create the Frequency matrix of the words in each sentence
+2. Calculate TermFrequency and generate a matrix
+3. Creating table for documents per words
+4. Calculate IDF and generate a matrix
+5. Calculate TF-IDf and generate a matrix
+6. Score the sentences
+7. Find the threshold
+8. Generate the summary
+
 Steps to run the project
 ------------------------
 1. Start the Django server
