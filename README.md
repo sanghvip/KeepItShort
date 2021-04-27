@@ -9,7 +9,7 @@ Steps to run the project
 Navigate to KeepItShot\keepitshort directory in command prompt and type in command python manage.py runserver
 Note: check that manage.py file exists before running the command.
 
-2.Start serving the ReactUI
+2. Start serving the ReactUI
     Navigate to KeepItShort\keepitshort-react\frontend and type the following command
     npm install --- to install npm if you do not have it
     npm start --- start serving React UI
